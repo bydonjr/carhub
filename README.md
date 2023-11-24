@@ -1,6 +1,3 @@
-## CarHub
-It's a web app for car rental service.
-
 ## Screenshots
 
 ![1](picture/1.png)
